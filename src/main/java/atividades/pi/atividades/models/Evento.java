@@ -31,5 +31,11 @@ public class Evento {
 	public void setHorário(String horário) {
 		this.horário = horário;
 	}
+	@Override
+	public String toString() {
+		return "Evento [nome=" + nome + ", data=" + data + ", local=" + local + ", horário=" + horário + "]";
+	}
+	
+	
 
 }
