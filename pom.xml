@@ -14,7 +14,7 @@
 	<name>atividades</name>
 	<description>atividades de spring boot</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
